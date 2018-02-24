@@ -1,0 +1,18 @@
+{
+  "name": "babun",
+  "description": "bab",
+  "scripts": {
+    "postdeploy": "bin/setup",
+    "pr-predestroy": "bin/bash"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
